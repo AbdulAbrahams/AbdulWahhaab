@@ -8,7 +8,7 @@
             <div class="col-md-6 intro">
               <h1 class="introH1">Abdul Wahhaab Abrahams</h1>
               <h3 class="my-1">Web Developer</h3>
-              <a href="#about" class="btn btn-lg btn-light my-4 px-5" style="border-radius: 0px;">Learn About Me</a>
+              <a href="#about" class="learn btn btn-lg btn-light my-4 px-5" style="border-radius: 0px;">Learn About Me</a>
             </div>
             <div class="col-md-6 ImgCol my-5">
               <img class="meImg" src="https://i.postimg.cc/sX56rV4K/Screenshot-2023-04-17-143529.png" alt="">
@@ -44,12 +44,12 @@
           <div class="resCont" style="display:inline-block;">
               <div class="justify-content-center mx-2">
               <div class="row my-5 resRow" v-for="person in resume">
-                <div class="col-md-6" style="text-align: left;">
+                <div class="col-md-6 my-1" style="text-align: left;">
                           <h6 class="my-4 text-primary" style=" margin-bottom: 20px;">📅  {{ person.period }}</h6>
                     <h2>{{ person.name }}</h2>
                     <div class="desc">{{ person.description}}</div>
                   </div>
-                  <div class="col-md-6 imgCol">
+                  <div class="col-md-6 imgCol my-1">
                     <img :src="person.image" alt="">
                   </div>
           </div>
@@ -148,6 +148,12 @@ export default {
 </script>
 
 <style  scoped>
+
+.learn:hover{
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
 
 .space{
   height: 80px;
