@@ -260,6 +260,9 @@ export default {
   mix-blend-mode: unset;
 }
 @media screen and (width < 768px) {
+  .body{
+    background-image: linear-gradient(240deg, rgb(255, 255, 255) 10%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
+  }
   .ImgCol{
     display: none;
   }
@@ -273,6 +276,9 @@ export default {
 }
 }
 @media screen and (width < 425px) {
+  .body{
+    background-image: linear-gradient(240deg, rgb(255, 255, 255) 6.5%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
+  }
 .skillsCol img{
     margin-top: 5% !important;
 }
