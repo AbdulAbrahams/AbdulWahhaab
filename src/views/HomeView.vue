@@ -10,7 +10,7 @@
             <a href="#about" class="btn btn-lg btn-light my-4 px-5" style="border-radius: 0px;">Learn About Me</a>
           </div>
           <div class="col-md-6 ImgCol my-5">
-            <img class="meImg" src="https://i.postimg.cc/sgC03KF2/IMG-20230331-WA0019-removebg.png" alt="">
+            <img class="meImg" src="https://i.postimg.cc/sX56rV4K/Screenshot-2023-04-17-143529.png" alt="">
           </div>
         </div>
       </section>
@@ -149,7 +149,7 @@ export default {
   overflow-x: hidden;
   position: absolute;
   width: 100%;
-  background-image: linear-gradient(240deg, rgb(255, 255, 255) 25.5%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
+  background-image: linear-gradient(240deg, rgb(255, 255, 255) 26%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
 }
 
 .container{
@@ -181,10 +181,15 @@ export default {
 }
 
 .meImg {
-  min-height: 100%;
-  max-height: 745px;
+  max-height: 705px;
   float: right;
   mix-blend-mode: luminosity !important;
+}
+
+.shadow{
+  max-height: 745px;
+  position: absolute;
+  mix-blend-mode: difference;
 }
 
 .AboutH1{
