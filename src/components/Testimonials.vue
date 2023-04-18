@@ -31,7 +31,7 @@ export default {
             people:[
                 {
                     name: "Joel Mukanya",
-                    testimonials: "Abdul is very creative, well-behaved, and dedicated; he enjoys working with his peers and works well on his project. He has learned a variety of skills and tools, such as JavaScript, ExpressJS, MySQL, Wireframe, VueJS, Bootstrap, and many more. I am honored to present him to you as one of the great candidates/developers.",
+                    testimonials: "Abdul is very creative, well-behaved, and dedicated; he enjoys working with his peers and works well on his project. I am honored to present him to you as one of the great candidates/developers.",
                     image: "https://i.postimg.cc/wvZxRbVG/image.jpg",
                     role: "Lecturer/Mentor",
                 },
