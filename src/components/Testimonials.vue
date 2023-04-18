@@ -30,6 +30,12 @@ export default {
         return{
             people:[
                 {
+                    name: "Joel Mukanya",
+                    testimonials: "Abdul is very creative, well-behaved, and dedicated; he enjoys working with his peers and works well on his project. He has learned a variety of skills and tools, such as JavaScript, ExpressJS, MySQL, Wireframe, VueJS, Bootstrap, and many more. I am honored to present him to you as one of the great candidates/developers.",
+                    image: "https://i.postimg.cc/wvZxRbVG/image.jpg",
+                    role: "Lecturer/Mentor",
+                },
+                {
                     name: "Ryan Thomas",
                     testimonials: "Abdul is a super hard working individual. He's a fast learner and always strives for perfection in whatever he does. He has the potential to be a strong leader as he leads a team/group quite well.",
                     image: "https://i.postimg.cc/PNGbb03B/image.jpg",
@@ -57,12 +63,6 @@ export default {
                     name: "Jake Jansen",
                     testimonials: "Abdul is a very creative and dedicated person with what he does. Works well in teams and is a pro-active worker. Great communication skills and open to ideas of others. He is also very driven to be the best of his caliber.",
                     image: "https://i.postimg.cc/3JTxvGSz/C11-Jake-Jansen-3.jpg",
-                    role: "Colleague/Web Developer",
-                },
-                {
-                    name: "Mu'eed Brown",
-                    testimonials: "Abdul is a very ambitious person who is not afraid to work towards achieving his goals. He is also very creative with his work. He is one of the most creative developers around. Abdul won't be afraid to assist those in need.",
-                    image: "https://i.postimg.cc/14hngYgd/DSC-3535-1.jpg",
                     role: "Colleague/Web Developer",
                 }
             ]
