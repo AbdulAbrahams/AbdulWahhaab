@@ -19,7 +19,7 @@
         <section class="aboutSec">
           <h1 class="AboutH1">About Me</h1>
           <div class="row aboutrow">
-            <div class="col-md-6" style="text-align: left;">
+            <div class="col-md-6" data-aos="fade-right" style="text-align: left;">
               <p>Hi! I am Abdul Wahhaab Abrahams, but you can call me Wahhaab. I'm an aspiring fullstack Web Developer that
                 enjoys helping out wherever I can and sharing the knowledge that i've gained as well as take in new
                 information and learn more. I'm a bit of a perfectionist at times and try to recreate things exactly as I
@@ -27,11 +27,11 @@
                 When I am not in front of the computer coding, I spend my time playing basketball🏀 working out at the
                 gym🏋️‍♂️playing games with my friends🎮and spending time with my family👪.</p>
             </div>
-            <div class="col-md-6 deats">
+            <div class="col-md-6 deats" data-aos="fade-left">
               <p class="things">
                 Full name: Abdul Wahhaab Abrahams<br/>
                 Date of birth: 12 May 2002<br/>
-                Location: Cape Town<br/>
+                Location: Strandfontein, Cape Town<br/>
                 Cell Phone number: 083 400 4653<br/>
                 Email Address: abdulabrahams2002@gmail.com
               </p>
@@ -44,12 +44,12 @@
           <div class="resCont" style="display:inline-block;">
               <div class="justify-content-center mx-2">
               <div class="row my-5 resRow" v-for="person in resume">
-                <div class="col-md-6 my-1" style="text-align: left;">
+                <div class="col-md-6 my-1" data-aos="fade-up" style="text-align: left;" v-motion-slide-visible-once-right>
                           <h6 class="my-4 text-primary" style=" margin-bottom: 20px;">📅  {{ person.period }}</h6>
                     <h2>{{ person.name }}</h2>
                     <div class="desc">{{ person.description}}</div>
                   </div>
-                  <div class="col-md-6 imgCol my-1">
+                  <div class="col-md-6 imgCol my-1" data-aos="fade-up">
                     <img :src="person.image" alt="">
                   </div>
           </div>
@@ -269,6 +269,10 @@ export default {
 @media screen and (width < 1000px) {
   .body{
     background-image: linear-gradient(240deg, rgb(255, 255, 255) 10%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
+  }
+
+  .introH1{
+    font-size: 3rem !important;
   }
 }
 

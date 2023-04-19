@@ -24,7 +24,7 @@
     </button>
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header">
-        <h5 class="offcanvas-title text-white" id="offcanvasNavbarLabel">Wahhaab</h5>
+        <img class="logo offcanvas-title" id="offcanvasNavbarLabel" src="https://i.postimg.cc/G2CHvHrv/AW.png" alt="">
         <button type="button" class="btn-close py-2 px-2 text-reset bg-white mx-4" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body">

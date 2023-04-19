@@ -2,7 +2,10 @@
     <h1 class="tests">Testimonials</h1>
     <div class="container">
     <div class="row">
-    <div class="col-md-4 peeps my-3" v-for="person in people">
+    <div class="col-md-4 peeps my-3" v-for="person in people" data-aos="fade-zoom-in"
+     data-aos-easing="ease-in-back"
+     data-aos-delay="500"
+     data-aos-offset="0">
     <div class="person">
     <div class="lines"></div>
                 <div class="cardImage">
