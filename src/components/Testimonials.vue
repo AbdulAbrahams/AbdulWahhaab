@@ -11,7 +11,7 @@
             <div class=content>
                  <div class="details mx-2">
             <h2>{{ person.name }}</h2>
-            <h6 class="text-primary">{{ person.role }}</h6>
+            <h6 class="text-primary role">{{ person.role }}</h6>
             <div class="speech">{{ person.testimonials}}</div>
                 </div>
            </div>
@@ -76,7 +76,7 @@ export default {
 .tests{
     text-align: left;
     mix-blend-mode: difference;
-    font-size: clamp(3.4rem, 5vw, 6.5rem);
+    font-size: clamp(2.8rem, 5vw, 6.5rem);
 }
 .row{
 justify-content: center;
@@ -197,6 +197,10 @@ color: rgb(0, 0, 0);
 padding: 3%;
 /* font-size: 1.25em; */
 }
+
+.role{
+    font-weight: 500;
+}
 .speech{
     font-weight: 500;
 margin-top: 3%;
@@ -211,6 +215,7 @@ justify-content:center !important;
 @media screen and (width <= 375px) {
 .peeps{
 min-width: 300px;
+margin-right: 15px;
 }
 }
 </style>

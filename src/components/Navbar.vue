@@ -2,7 +2,7 @@
 <div class="navigation fixed-top">
     <header class="container d-flex flex-wrap justify-content-center">
       <a href="/" class="d-flex align-items-center mx-5 mb-md-0 me-md-auto text-dark text-decoration-none">
-        <span class="title fs-4 text-white">Wahhaab</span>
+        <span class="title fs-4 text-white"><img class="logo" src="https://i.postimg.cc/G2CHvHrv/AW.png" alt=""></span>
       </a>
 
       <ul class="navbar nav nav-pills mx-5">
@@ -18,14 +18,14 @@
 
   <nav class="navigation2 navbar navbar-dark bg-black fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Wahhaab</a>
+    <a class="navbar-brand" href="#"><img class="logo" src="https://i.postimg.cc/G2CHvHrv/AW.png" alt=""></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header">
         <h5 class="offcanvas-title text-white" id="offcanvasNavbarLabel">Wahhaab</h5>
-        <button type="button" class="btn-close text-reset bg-white mx-4" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        <button type="button" class="btn-close py-2 px-2 text-reset bg-white mx-4" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body">
         <ul class="navbar-nav flex-grow-1 pe-3">
@@ -62,6 +62,12 @@
 
 <style  scoped>
 
+.logo{
+  background-color: white;
+  width: 80px;
+  height: 40px;
+}
+
 .title{
   font-weight: 600;
 }
@@ -74,10 +80,17 @@
 .navigation.black{
   background: rgb(0, 0, 0);
 }
+.nav-link {
+  color: rgba(255,255,255);
+}
 
-.nav-link{
-  color: white;
-  mix-blend-mode: difference;
+.navbar-dark .navbar-nav .nav-link {
+  font-size: 18px;
+    color: rgba(255,255,255);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, 0.468);
 }
 .navigation2{
   display: none;
@@ -87,6 +100,7 @@
   text-align: left;
   background: black;
   opacity: 90%;
+  max-width: 70vw;
 }
 
 @media screen and (width < 1000px) {

@@ -11,7 +11,7 @@
               <a href="#about" class="learn btn btn-lg btn-light my-4 px-5" style="border-radius: 0px;">Learn About Me</a>
             </div>
             <div class="col-md-6 ImgCol my-5">
-              <img class="meImg" src="https://i.postimg.cc/sX56rV4K/Screenshot-2023-04-17-143529.png" alt="">
+              <img class="meImg" src="https://i.postimg.cc/KjpBpkMW/Screenshot-2023-04-17-143529.png" alt="">
             </div>
           </div>
         </section>
@@ -179,7 +179,7 @@ export default {
 }
 
 .introH1{
-  font-size: clamp(3.8rem, 5vw, 6.5rem);
+  font-size: clamp(3.6rem, 5vw, 6.5rem);
 }
 
 .intro {
@@ -265,6 +265,13 @@ export default {
 .skillsCol:hover{
   mix-blend-mode: unset;
 }
+
+@media screen and (width < 1000px) {
+  .body{
+    background-image: linear-gradient(240deg, rgb(255, 255, 255) 10%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
+  }
+}
+
 @media screen and (width < 768px) {
   .body{
     background-image: linear-gradient(240deg, rgb(255, 255, 255) 10%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
