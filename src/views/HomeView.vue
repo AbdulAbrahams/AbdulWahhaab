@@ -5,12 +5,12 @@
       <div class="container">
         <section class="introSec">
           <div class="row introduction">
-            <div class="col-md-6 intro">
+            <div class="col-md-6 intro" data-aos="fade-left" data-aos-duration="2000">
               <h1 class="introH1">Abdul Wahhaab Abrahams</h1>
               <h3 class="my-1">Web Developer</h3>
               <a href="#about" class="learn btn btn-lg btn-light my-4 px-5" style="border-radius: 0px;">Learn About Me</a>
             </div>
-            <div class="col-md-6 ImgCol my-5">
+            <div class="col-md-6 ImgCol my-5" data-aos="fade" data-aos-easing="linear" data-aos-duration="2000">
               <img class="meImg" src="https://i.postimg.cc/KjpBpkMW/Screenshot-2023-04-17-143529.png" alt="">
             </div>
           </div>
@@ -19,7 +19,7 @@
         <section class="aboutSec">
           <h1 class="AboutH1 my-5">About Me</h1>
           <div class="row aboutrow">
-            <div class="col-md-6 my-5" data-aos="fade-right" style="text-align: left;">
+            <div class="col-md-6 mt-5" data-aos="fade-right" data-aos-duration="1500" style="text-align: left;">
               <p>Hi! I am Abdul Wahhaab Abrahams, but you can call me Wahhaab. I'm an aspiring fullstack Web Developer that
                 enjoys helping out wherever I can and sharing the knowledge that i've gained as well as take in new
                 information and learn more. I'm a bit of a perfectionist at times and try to recreate things exactly as I
@@ -27,7 +27,7 @@
                 When I am not in front of the computer coding, I spend my time playing basketball🏀 working out at the
                 gym🏋️‍♂️playing games with my friends🎮and spending time with my family👪.</p>
             </div>
-            <div class="col-md-6 my-5 deats" data-aos="fade-left">
+            <div class="col-md-6 mt-5 deats" data-aos="fade-left" data-aos-duration="1500">
               <p class="things">
                 Full name: Abdul Wahhaab Abrahams<br/>
                 Date of birth: 12 May 2002<br/>
@@ -44,12 +44,12 @@
           <div class="resCont" style="display:inline-block;">
               <div class="justify-content-center mx-2">
               <div class="row my-5 resRow" v-for="person in resume">
-                <div class="col-md-6 my-1" data-aos="fade-up" style="text-align: left;" v-motion-slide-visible-once-right>
+                <div class="col-md-6 my-1" data-aos="fade-up" data-aos-duration="1200" style="text-align: left;">
                           <h6 class="my-4 text-primary" style=" margin-bottom: 20px;">📅  {{ person.period }}</h6>
-                    <h2>{{ person.name }}</h2>
+                    <a :href="person.link" class="personLink text-white"><h2>{{ person.name }}</h2></a>
                     <div class="desc">{{ person.description}}</div>
                   </div>
-                  <div class="col-md-6 imgCol my-1" data-aos="fade-up">
+                  <div class="col-md-6 imgCol my-1" data-aos="fade-up" data-aos-duration="1200">
                     <img :src="person.image" alt="">
                   </div>
           </div>
@@ -58,7 +58,7 @@
           <h1 class="skillsH1">Skills</h1>
           <div class="container-lg" style="display:inline-block;">
               <div class="row justify-content-center mx-2">
-              <div class="col-md-3 mx-2 my-2 skillsCol" v-for="pic in skills">
+              <div class="col-md-3 mx-2 my-2 skillsCol" data-aos="fade" data-aos-duration="1200" v-for="pic in skills">
                         <img :src="pic.image" alt="">
           </div>
           </div>
@@ -103,19 +103,22 @@ export default {
                           name: 'Life Choices Coding Academy',
                           period: ' September 2022 – Present',
                           description: "I am currently learning coding and web development at 'Life Choices Coding Academy' to become a fullstack web developer and learning things that would have taken me ages to learn at rosebank such as HTML, CSS and Bootstrap. Learning at Life Choices has dramatically changed my work ethic for the better.",
-                          image: "https://i.postimg.cc/Y0rMDgkr/Logo.png"
+                          image: "https://i.postimg.cc/Y0rMDgkr/Logo.png",
+                          link: "https://lifechoices.co.za/"
                       },
                       {
                           name: 'Rosebank College',
                           period: 'January 2022 - August 2022',
                           description: "Studied bachelor's Degree in I.T. at Rosebank College but left due to the fact that I wasn't learning much and when i heard back from life choices i made my decision to leave.",
-                          image: "https://i.postimg.cc/XYQ8QQnm/rc-logo.png"
+                          image: "https://i.postimg.cc/XYQ8QQnm/rc-logo.png",
+                          link: "https://www.rosebankcollege.co.za/"
                       },
                       {
                           name: 'Muizenberg High School',
                           period: 'January 2015 - December 2019',
                           description: "I matriculated at Muizenberg High School in 2019 with a bachelor's pass. My subjects were pure Maths, Physics, Business Studies, Music, English, Afrikaans and Life Orientation.",
-                          image: "https://i.postimg.cc/CLJkg59f/1940005-1389649074636868-537002596-n.png"
+                          image: "https://i.postimg.cc/CLJkg59f/1940005-1389649074636868-537002596-n.png",
+                          link: "https://muizenberghigh.org/"
                       }
                   ],
 
@@ -162,7 +165,7 @@ export default {
   overflow-x: hidden;
   position: absolute;
   width: 100%;
-  background-image: linear-gradient(240deg, rgb(255, 255, 255) 26%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
+  background-image: linear-gradient(240deg, rgb(255, 255, 255) 25.5%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
 }
 
 .container{
@@ -271,6 +274,15 @@ section{
 }
 .skillsCol:hover{
   mix-blend-mode: unset;
+}
+
+.personLink{
+  text-decoration: none;
+}
+
+.personLink h2:hover{
+  color: rgb(0, 76, 255);
+  transition: 0.5s;
 }
 
 @media screen and (width < 1000px) {

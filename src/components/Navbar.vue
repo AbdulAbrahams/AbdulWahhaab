@@ -1,7 +1,7 @@
 <template>
 <div class="navigation fixed-top">
     <header class="container d-flex flex-wrap justify-content-center">
-      <a href="/" class="d-flex align-items-center mx-5 mb-md-0 me-md-auto text-dark text-decoration-none">
+      <a href="#" class="d-flex align-items-center mx-5 mb-md-0 me-md-auto text-dark text-decoration-none">
         <span class="title fs-4 text-white"><img class="logo" src="https://i.postimg.cc/G2CHvHrv/AW.png" alt=""></span>
       </a>
 

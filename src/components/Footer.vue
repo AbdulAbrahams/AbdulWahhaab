@@ -37,7 +37,7 @@ footer{
     color: rgb(255, 255, 255) !important;
 }
 .footer-bar a i:hover{
-    color: rgb(255, 255, 255) !important;
+    color: rgb(0, 60, 255) !important;
 }
 .text{
   color: rgb(255, 255, 255);
