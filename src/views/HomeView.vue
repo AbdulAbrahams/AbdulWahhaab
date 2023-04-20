@@ -17,9 +17,9 @@
         </section>
         <div class="space" id="about"></div>
         <section class="aboutSec">
-          <h1 class="AboutH1">About Me</h1>
+          <h1 class="AboutH1 my-5">About Me</h1>
           <div class="row aboutrow">
-            <div class="col-md-6" data-aos="fade-right" style="text-align: left;">
+            <div class="col-md-6 my-5" data-aos="fade-right" style="text-align: left;">
               <p>Hi! I am Abdul Wahhaab Abrahams, but you can call me Wahhaab. I'm an aspiring fullstack Web Developer that
                 enjoys helping out wherever I can and sharing the knowledge that i've gained as well as take in new
                 information and learn more. I'm a bit of a perfectionist at times and try to recreate things exactly as I
@@ -27,7 +27,7 @@
                 When I am not in front of the computer coding, I spend my time playing basketball🏀 working out at the
                 gym🏋️‍♂️playing games with my friends🎮and spending time with my family👪.</p>
             </div>
-            <div class="col-md-6 deats" data-aos="fade-left">
+            <div class="col-md-6 my-5 deats" data-aos="fade-left">
               <p class="things">
                 Full name: Abdul Wahhaab Abrahams<br/>
                 Date of birth: 12 May 2002<br/>
@@ -170,8 +170,15 @@ export default {
   color: white;
 }
 
-.introSec{
+section{
+  justify-content: center;
+  align-items: center;
   min-height: 100vh;
+}
+
+.introSec{
+  justify-content: center;
+  align-items: center;
 }
 
 .resCont{
@@ -273,6 +280,10 @@ export default {
 
   .introH1{
     font-size: 3rem !important;
+  }
+
+  .meImg{
+    max-height: 615px;
   }
 }
 
