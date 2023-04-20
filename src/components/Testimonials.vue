@@ -31,7 +31,7 @@ export default {
             people:[
                 {
                     name: "Joel Mukanya",
-                    testimonials: "Abdul is very creative, well-behaved, and dedicated; he enjoys working with his peers and works well on his project. I am honored to present him to you as one of the great candidates/developers.",
+                    testimonials: "Abdul is very creative, well-behaved, and dedicated, he enjoys working with his peers and works well on his project. I am honored to present him to you as one of the great candidates/developers.",
                     image: "https://i.postimg.cc/wvZxRbVG/image.jpg",
                     role: "Lecturer/Mentor",
                 },
@@ -49,7 +49,7 @@ export default {
                 },
                 {
                     name: "Abdul Azeez Kemp",
-                    testimonials: "An absolute great guy, hard worker and a goal driven personality. Always takes on the next challenge that comes to him and knows how to communicate and socialise in his surroundings.",
+                    testimonials: "An absolute great guy, hard worker, fast learner and a goal driven personality. Always takes on the next challenge that comes to him and knows how to communicate and socialise in his surroundings.",
                     image: "https://i.postimg.cc/nzbkJT23/C11-Abdul-Azeez-Kemp-1.jpg",
                     role: "Colleague/Web Developer",
                 },

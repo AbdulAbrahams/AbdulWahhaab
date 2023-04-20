@@ -116,7 +116,7 @@ export default {
                       {
                           name: 'Muizenberg High School',
                           period: 'January 2015 - December 2019',
-                          description: "I matriculated at Muizenberg High School in 2019 with a bachelor's pass. My subjects were pure Maths, Physics, Business Studies, Music, English, Afrikaans and Life Orientation.",
+                          description: "I matriculated at Muizenberg High School in 2019 with a bachelor's pass. My subjects were Pure Mathematics, Physical Sciences, Business Studies, Music, English, Afrikaans and Life Orientation.",
                           image: "https://i.postimg.cc/CLJkg59f/1940005-1389649074636868-537002596-n.png",
                           link: "https://muizenberghigh.org/"
                       }
