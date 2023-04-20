@@ -1,26 +1,28 @@
 <template>
           <div class="space"></div>
             <div class="contactsec container-lg" id="Contact">
-          <h1 class="contact" style="padding-bottom: 6%; color: White;">Contact Me</h1>
+          <h1 class="contact mb-5" style="color: White;">Contact Me</h1>
           <form action="https://formspree.io/f/xzbwjdvo" method="POST" class="form" style="padding-bottom: 7%;">
-              <div class="row">
-                <div class="col">
+              <div class="row justify-content-center">
+                <div class="col-5">
                   <input type="text" class="form-control" name="name" placeholder="First name" aria-label="First name" required>
                 </div>
-                <div class="col">
+                <div class="col-5">
                   <input type="text" class="form-control" name="lastname" placeholder="Last name" aria-label="Last name" required>
                 </div>
               </div>
-              <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label"></label>
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email" placeholder="Your Email" required>
-                <div id="emailHelp" class="form-text"></div>
-              </div>
+              <div class="row justify-content-center">
+                <div class="col-10 mb-3">
+                  <label for="exampleInputEmail1" class="form-label"></label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email" placeholder="Your Email" required>
+                  <div id="emailHelp" class="form-text"></div>
+                </div>
             
-                <div class="mb-3">
+                <div class="col-10 mb-3">
                   <label for="exampleFormControlTextarea1" class="form-label"></label>
                   <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" name="message" placeholder="Enter Message Here" required></textarea>
                 </div>
+              </div>
               
               <button type="submit" class="btn subButton" name="submit">Submit</button>
             </form>
@@ -47,6 +49,7 @@
     </script>
     
     <style scoped>
+    
     .contactsec{
       min-height: 100vh;
     }
@@ -57,7 +60,7 @@
     }
     .subButton{
         font-size: 18px;
-        width: 60%;
+        width: 40%;
         border: 2px solid rgb(255, 255, 255);
         color: rgb(255, 255, 255);
     }

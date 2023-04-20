@@ -287,7 +287,7 @@ section{
 
 @media screen and (width < 1000px) {
   .body{
-    background-image: linear-gradient(240deg, rgb(255, 255, 255) 10%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
+    background-image: linear-gradient(240deg, rgb(255, 255, 255) 12%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
   }
 
   .introH1{
@@ -301,7 +301,7 @@ section{
 
 @media screen and (width < 768px) {
   .body{
-    background-image: linear-gradient(240deg, rgb(255, 255, 255) 10%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
+    background-image: linear-gradient(240deg, rgb(255, 255, 255) 8%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
   }
   .ImgCol{
     display: none;
