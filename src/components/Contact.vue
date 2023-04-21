@@ -1,5 +1,4 @@
 <template>
-          <div class="space"></div>
             <div class="contactsec container-lg" id="Contact">
           <h1 class="contact mb-5" style="color: White;">Contact Me</h1>
           <form action="https://formspree.io/f/xzbwjdvo" method="POST" class="form" style="padding-bottom: 7%;">

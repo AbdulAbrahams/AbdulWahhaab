@@ -49,6 +49,14 @@
           </li>
         </ul>
       </div>
+      <div class="offcanvas-footer">
+        <div class="footer-bar mx-3 my-3">
+              <a href="https://www.youtube.com/@AbnormalAbdul12"><i class="fa fa-youtube-play"></i></a>
+              <a href="https://www.instagram.com/abdul_abrahams_/"><i class="fa fa-instagram mx-2"></i></a> 
+              <a href="https://www.linkedin.com/in/abdul-wahhaab-abrahams-506142222/"><i class="fa fa-linkedin"></i></a> 
+              <a href="https://github.com/AbdulAbrahams"><i class="fa fa-github mx-2"></i></a>
+        </div>
+      </div>
     </div>
   </div>
 </nav>
@@ -101,6 +109,16 @@
   background: black;
   opacity: 90%;
   max-width: 70vw;
+}
+.footer-bar a{
+  font-size: 25px;
+  margin: 3px;
+}
+.footer-bar a i{
+    color: rgb(255, 255, 255) !important;
+}
+.footer-bar a i:hover{
+    color: rgba(255, 255, 255, 0.721) !important;
 }
 
 @media screen and (width < 1000px) {

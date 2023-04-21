@@ -1,5 +1,4 @@
 <template>
-    <div class="space"></div>
     <h1 class="proHead">Projects</h1>
         <div class="body">
             <div class="row justify-content-center mx-2">
