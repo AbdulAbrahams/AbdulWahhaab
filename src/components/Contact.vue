@@ -48,6 +48,14 @@
     </script>
     
     <style scoped>
+
+    form input{
+      border-radius: 0px;
+    }
+
+    form textarea{
+      border-radius: 0px;
+    }
     
     .contactsec{
       min-height: 100vh;
@@ -62,11 +70,13 @@
         width: 40%;
         border: 2px solid rgb(255, 255, 255);
         color: rgb(255, 255, 255);
+        border-radius: 0px;
     }
     .subButton:hover{
       border: 2px solid rgb(255, 255, 255);
       background-color: rgb(255, 255, 255);
       color: rgb(0, 0, 0);
+      border-radius: 0px;
     }
     .contact{
         text-align: left;
