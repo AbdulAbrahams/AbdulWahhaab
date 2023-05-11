@@ -1,8 +1,8 @@
 <template>
     <h1 class="proHead">Projects</h1>
         <div class="body">
-            <div class="row justify-content-center mx-2">
-                <div class="card mx-2 my-3" v-for="content in projects">
+            <div class="row justify-content-center">
+                <div class="card my-3" v-for="content in projects">
             <div class="poster">
                 <img :src="content.image" alt="">
             </div>
