@@ -33,12 +33,14 @@
 
 .AboutH1{
   text-align: left;
+  color: white;
   mix-blend-mode: difference;
   font-size: clamp(3.4rem, 5vw, 6.5rem);
 }
 
 .aboutrow{
   font-size: 18px;
+  color: white;
   mix-blend-mode: difference;
   justify-content: center !important;
   align-items: center !important;

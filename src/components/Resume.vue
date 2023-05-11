@@ -101,6 +101,8 @@
 }
 
 .resRow{
+  color: white;
+  mix-blend-mode: difference;
   justify-content: center !important;
   align-items: center !important;
 }

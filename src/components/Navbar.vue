@@ -81,7 +81,7 @@
 }
 
 .navigation{
-  background: rgb(0, 0, 0);
+  background: black;
   color: white;
 }
 
@@ -89,7 +89,7 @@
   background: rgb(0, 0, 0);
 }
 .nav-link {
-  color: rgba(255,255,255);
+  color: white;
 }
 
 .navbar-dark .navbar-nav .nav-link {

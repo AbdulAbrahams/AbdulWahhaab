@@ -26,9 +26,9 @@
               <button type="submit" class="btn subButton" name="submit">Submit</button>
             </form>
     
-            <div class="deats justify-content-between mx-5">
-              <text class="my-3" style="font-size: 15px;">Call Me On : +27 83 400 4653</text>
-            <text class="my-3" style="font-size: 15px;">Email : abdulabrahams2002@gmail.com</text>
+            <div class="deats justify-content-around">
+              <text class="my-3" ><i class="fa fa-phone"></i> +27 83 400 4653</text>
+            <text class="my-3"><i class="fa fa-envelope"></i> abdulabrahams2002@gmail.com</text>
             </div>
             
         </div>
@@ -86,6 +86,7 @@
     .deats{
       display: flex;
     }
+
     @media screen and (width <600px){
         .contact{
             margin-top: 20%;
