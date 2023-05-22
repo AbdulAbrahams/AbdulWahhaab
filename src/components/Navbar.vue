@@ -92,6 +92,10 @@
   color: white;
 }
 
+.nav-link:hover{
+  opacity: 80%;
+}
+
 .navbar-dark .navbar-nav .nav-link {
   font-size: 18px;
     color: rgba(255,255,255);
@@ -128,6 +132,10 @@
 
 .navigation2{
   display: block;
+}
+
+.nav-link:hover{
+  opacity: 80%;
 }
 }
 </style>
