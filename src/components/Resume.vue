@@ -16,9 +16,9 @@
           </div>
           </div>
           <h1 class="skillsH1">Skills</h1>
-          <div class="container-lg" style="display:inline-block;">
+          <div class="container-lg mt-4" style="display:inline-block;">
               <div class="row justify-content-center mx-2">
-              <div class="col-md-3 mx-2 my-2 skillsCol" data-aos="fade" data-aos-duration="1200" v-for="pic in skills">
+              <div class="col-md-2 mx-2 my-2 skillsCol" data-aos="fade" data-aos-duration="1200" v-for="pic in skills">
                         <img :src="pic.image" alt="">
           </div>
           </div>
@@ -76,6 +76,9 @@
                     },
                     {
                         image: 'https://i.postimg.cc/Zn6MFbrJ/pngegg-1.png'
+                    },
+                    {
+                        image: 'https://i.postimg.cc/SR9mxG3M/pngegg-5.png'
                     }
                   ]
               }
