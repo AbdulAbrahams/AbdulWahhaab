@@ -72,13 +72,16 @@
                         image: 'https://i.postimg.cc/QMSTTYb4/pngegg-6.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/CxMw1XgR/pngegg-2.png'
+                        image: 'https://i.postimg.cc/GhGX78vZ/pngegg-14.png'
                     },
                     {
                         image: 'https://i.postimg.cc/Zn6MFbrJ/pngegg-1.png'
                     },
                     {
                         image: 'https://i.postimg.cc/SR9mxG3M/pngegg-5.png'
+                    },
+                    {
+                        image: 'https://i.postimg.cc/0NdKMxRM/pngegg-12.png'
                     }
                   ]
               }
