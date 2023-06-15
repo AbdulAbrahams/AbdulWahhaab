@@ -28,7 +28,7 @@
     
             <div class="deats justify-content-around">
               <text class="my-3"><i class="fa fa-envelope"></i> abdulabrahams2002@gmail.com</text>
-              <text class="my-3"><i class="fa fa-phone"></i> +27 83 400 4653</text>
+              <text class="my-3"><i class="fa fa-phone"></i> +27 84 961 3100</text>
             </div>
             
         </div>
