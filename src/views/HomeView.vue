@@ -47,6 +47,7 @@
 
 <script>
 import Navbar from '../components/Navbar.vue'
+import Navbar2 from '../components/Navbar2.vue'
 import About from '../components/About.vue'
 import Resume from '../components/Resume.vue'
 import Testimonials from '../components/Testimonials.vue'
@@ -56,7 +57,7 @@ import Footer from '../components/Footer.vue'
 import Spinner from '../components/Spinner.vue'
 export default {
   name: 'HomeView',
-  components: { Navbar, About, Resume, Testimonials, Projects, Contact, Footer, Spinner }
+  components: { Navbar, Navbar2, About, Resume, Testimonials, Projects, Contact, Footer, Spinner, Navbar2 }
       }
 </script>
 
