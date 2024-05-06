@@ -57,31 +57,40 @@
 
                   skills:[
                     {
-                        image: 'https://i.postimg.cc/76DKxRLK/pngegg-5.png'
+                        image: 'https://i.postimg.cc/xdSFbMF0/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/G2yjQ2YH/html-png.png'
+                        image: 'https://i.postimg.cc/gJzSgdWQ/png-clipart-blue-and-white-logo-web-development-responsive-web-design-cascading-style-sheets-html-cs.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/gcKhP8YG/bootstrap.png'
+                        image: 'https://i.postimg.cc/SsgZ55Qs/png-clipart-responsive-web-design-bootstrap-sass-cascading-style-sheets-html-framework-purple-templa.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/152h991M/pngegg-7.png'
+                        image: 'https://i.postimg.cc/hvhCqrh0/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-thumbnail.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/QMSTTYb4/pngegg-6.png'
+                        image: 'https://i.postimg.cc/nVwRG6wS/png-clipart-vue-js-javascript-library-angularjs-react-vue-js-template-angle-thumbnail.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/GhGX78vZ/pngegg-14.png'
+                        image: 'https://i.postimg.cc/R0RG68HR/png-clipart-mysql-mysql-thumbnail.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/Zn6MFbrJ/pngegg-1.png'
+                        image: 'https://i.postimg.cc/VvSFhkHG/png-clipart-node-js-angularjs-react-javascript-npm-node-js-angle-text-thumbnail.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/SR9mxG3M/pngegg-5.png'
+                        image: 'https://i.postimg.cc/kMZsbWBk/png-clipart-wordpress-logo-theme-wordpress-blue-trademark-thumbnail.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/0NdKMxRM/pngegg-12.png'
+                        image: 'https://i.postimg.cc/fT9Kjkdk/png-clipart-java-servlet-javaserver-pages-software-development-java-platform-enterprise-edition-rege.png'
+                    },
+                    {
+                        image: 'https://i.postimg.cc/q7jXM3PD/png-clipart-selenium-computer-icons-test-automation-software-testing-selenium-angle-text-thumbnail.png'
+                    },
+                    {
+                        image: 'https://i.postimg.cc/0Q4Y7q2p/png-clipart-jenkins-devops-continuous-integration-software-development-installation-selenium-text-ha.png'
+                    },
+                    {
+                        image: 'https://i.postimg.cc/xqDLFym8/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png'
                     }
                   ]
               }
