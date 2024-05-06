@@ -35,14 +35,14 @@
                       {
                           name: 'Global Kinetic Software Engineers',
                           period: ' July 2023 – Present',
-                          description: "",
+                          description: "Started my journey in quality assurance as and SDET at Global Kinetic.",
                           image: "https://i.postimg.cc/nzKkbWH7/images-1.jpg",
                           link: "https://globalkinetic.com/"
                       },
                       {
                           name: 'Life Choices Studio',
                           period: ' April 2023 – June 2023',
-                          description: "",
+                          description: "Furthered my learning journey onto UX/UI, Wordpress and Figma",
                           image: "https://i.postimg.cc/qRHLFrd4/images.jpg",
                           link: "https://lcstudio.co.za/"
                       },    
