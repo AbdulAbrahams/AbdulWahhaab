@@ -33,24 +33,38 @@
               return{
                   resume:[
                       {
+                          name: 'Global Kinetic Software Engineers',
+                          period: ' July 2023 – Present',
+                          description: "",
+                          image: "https://i.postimg.cc/nzKkbWH7/images-1.jpg",
+                          link: "https://globalkinetic.com/"
+                      },
+                      {
+                          name: 'Life Choices Studio',
+                          period: ' April 2023 – June 2023',
+                          description: "",
+                          image: "https://i.postimg.cc/qRHLFrd4/images.jpg",
+                          link: "https://lcstudio.co.za/"
+                      },    
+                      {
                           name: 'Life Choices Coding Academy',
-                          period: ' September 2022 – Present',
-                          description: "I am currently learning coding and web development at 'Life Choices Coding Academy' to become a fullstack web developer and learning things that would have taken me ages to learn at rosebank such as HTML, CSS and Bootstrap. Learning at Life Choices has dramatically changed my work ethic for the better.",
-                          image: "https://i.postimg.cc/Y0rMDgkr/Logo.png",
+                          period: ' September 2022 – March 2023',
+                          description: "I learnt coding and web development at 'Life Choices Coding Academy' to become a fullstack web developer and learning things that would have taken me ages to learn at rosebank such as HTML, CSS and Bootstrap. Learning at Life Choices has dramatically changed my work ethic for the better.",
+                          image: "https://i.postimg.cc/4ySHrvhV/logo-429x991.png",
                           link: "https://lifechoices.co.za/"
                       },
                       {
                           name: 'Rosebank College',
                           period: 'January 2022 - August 2022',
                           description: "Studied bachelor's Degree in I.T. at Rosebank College but left due to the fact that I wasn't learning much and when i heard back from life choices i made my decision to leave.",
-                          image: "https://i.postimg.cc/XYQ8QQnm/rc-logo.png",
+                          image: "https://i.postimg.cc/XvjNkGrb/images.jpg",
                           link: "https://www.rosebankcollege.co.za/"
                       },
                       {
                           name: 'Muizenberg High School',
                           period: 'January 2015 - December 2019',
                           description: "I matriculated at Muizenberg High School in 2019 with a bachelor's pass. My subjects were Pure Mathematics, Physical Sciences, Business Studies, Music, English, Afrikaans and Life Orientation.",
-                          image: "https://i.postimg.cc/CLJkg59f/1940005-1389649074636868-537002596-n.png",
+                          image: "https://i.postimg.cc/przy6NRb/Screenshot-2024-05-06-160935.png",
                           link: "https://muizenberghigh.org/"
                       }
                   ],
