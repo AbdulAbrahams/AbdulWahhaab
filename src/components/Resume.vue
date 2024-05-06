@@ -57,10 +57,10 @@
 
                   skills:[
                     {
-                        image: 'https://i.postimg.cc/xdSFbMF0/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design.png'
+                        image: 'https://ibb.co/wykGJ5T'
                     },
                     {
-                        image: 'https://i.postimg.cc/gJzSgdWQ/png-clipart-blue-and-white-logo-web-development-responsive-web-design-cascading-style-sheets-html-cs.png'
+                        image: 'https://i.postimg.cc/0QZ848Jw/css.png'
                     },
                     {
                         image: 'https://i.postimg.cc/SsgZ55Qs/png-clipart-responsive-web-design-bootstrap-sass-cascading-style-sheets-html-framework-purple-templa.png'
