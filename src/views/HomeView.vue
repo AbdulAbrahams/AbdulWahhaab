@@ -150,11 +150,17 @@ section{
   .introH1{
     margin-top: 30vh;
   font-size: clamp(3.4rem, 5vw, 5rem);
-}
+  }
+  .intro {
+  margin-top: 0;
+  }  
 }
 @media screen and (width < 425px) {
   .body{
     background-image: linear-gradient(240deg, rgb(255, 255, 255) 6.5%, rgb(0, 0, 0) 1%, rgb(0, 0, 0));
   }
+  .intro {
+  margin-top: 0;
+  }    
 }
 </style>
