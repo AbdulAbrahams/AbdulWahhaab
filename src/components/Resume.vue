@@ -71,40 +71,34 @@
 
                   skills:[
                     {
-                        image: 'https://ibb.co/wykGJ5T'
+                        image: 'https://i.postimg.cc/kgnXtM8B/HTML3.png'
                     },
                     {
                         image: 'https://i.postimg.cc/0QZ848Jw/css.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/SsgZ55Qs/png-clipart-responsive-web-design-bootstrap-sass-cascading-style-sheets-html-framework-purple-templa.png'
+                        image: 'https://i.postimg.cc/W3cGMJ7M/bootstrap.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/hvhCqrh0/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-thumbnail.png'
+                        image: 'https://i.postimg.cc/TYsWVDdp/JS.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/nVwRG6wS/png-clipart-vue-js-javascript-library-angularjs-react-vue-js-template-angle-thumbnail.png'
+                        image: 'https://i.postimg.cc/76P68HHF/Vue.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/R0RG68HR/png-clipart-mysql-mysql-thumbnail.png'
+                        image: 'https://i.postimg.cc/43YGzY3N/MySQL.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/VvSFhkHG/png-clipart-node-js-angularjs-react-javascript-npm-node-js-angle-text-thumbnail.png'
+                        image: 'https://i.postimg.cc/K8KpfBtV/Node.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/kMZsbWBk/png-clipart-wordpress-logo-theme-wordpress-blue-trademark-thumbnail.png'
+                        image: 'https://i.postimg.cc/x1bgMY2V/Wordpress.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/fT9Kjkdk/png-clipart-java-servlet-javaserver-pages-software-development-java-platform-enterprise-edition-rege.png'
+                        image: 'https://i.postimg.cc/bvV0sNCh/Java.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/q7jXM3PD/png-clipart-selenium-computer-icons-test-automation-software-testing-selenium-angle-text-thumbnail.png'
-                    },
-                    {
-                        image: 'https://i.postimg.cc/0Q4Y7q2p/png-clipart-jenkins-devops-continuous-integration-software-development-installation-selenium-text-ha.png'
-                    },
-                    {
-                        image: 'https://i.postimg.cc/xqDLFym8/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png'
+                        image: 'https://i.postimg.cc/ZqX9G9sC/Selenium.png'
                     }
                   ]
               }
