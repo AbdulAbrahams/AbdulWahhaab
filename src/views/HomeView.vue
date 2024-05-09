@@ -113,7 +113,7 @@ section{
   color: white;
   text-align: left;
   mix-blend-mode: difference;
-  margin-top: 300px;
+  margin-top: 280px;
 }
 
 .introduction{
