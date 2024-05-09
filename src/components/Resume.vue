@@ -98,7 +98,7 @@
                         image: 'https://i.postimg.cc/ZYpfDpsv/Java.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/ZqX9G9sC/Selenium.png'
+                        image: 'https://i.postimg.cc/Hsjt1MBt/sel-3.png'
                     }
                   ]
               }
