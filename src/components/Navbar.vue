@@ -91,6 +91,7 @@
 }
 .nav-link {
   color: black;
+  font-weight: 500;
 }
 
 .nav-link:hover{
