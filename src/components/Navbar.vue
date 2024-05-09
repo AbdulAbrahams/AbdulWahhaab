@@ -81,15 +81,16 @@
 }
 
 .navigation{
-  background: black;
-  color: white;
+    background: #fff;
+    color: #000;
+    mix-blend-mode: difference;
 }
 
 .navigation.black{
   background: rgb(0, 0, 0);
 }
 .nav-link {
-  color: white;
+  color: black;
 }
 
 .nav-link:hover{
