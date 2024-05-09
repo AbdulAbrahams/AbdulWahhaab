@@ -95,7 +95,7 @@
                         image: 'https://i.postimg.cc/x1bgMY2V/Wordpress.png'
                     },
                     {
-                        image: 'https://i.postimg.cc/bvV0sNCh/Java.png'
+                        image: 'https://i.postimg.cc/ZYpfDpsv/Java.png'
                     },
                     {
                         image: 'https://i.postimg.cc/ZqX9G9sC/Selenium.png'
