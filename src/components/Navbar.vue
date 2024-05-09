@@ -2,7 +2,7 @@
 <div class="navigation fixed-top">
     <header class="container d-flex flex-wrap justify-content-center">
       <a href="#" class="d-flex align-items-center mx-5 mb-md-0 me-md-auto text-dark text-decoration-none">
-        <span class="title fs-4 text-white"><img class="logo" src="https://i.postimg.cc/Cxws2DyJ/Screenshot-2024-05-09-122414.png" alt=""></span>
+        <span class="title fs-4 text-white"><img class="logo" src="https://i.postimg.cc/KjzyQ4GY/16820667791876436.jpg" alt=""></span>
       </a>
 
       <ul class="navbar nav nav-pills mx-5">
@@ -18,7 +18,7 @@
 
   <nav class="navigation2 navbar navbar-dark bg-black fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#"><img class="logo" src="https://i.postimg.cc/Cxws2DyJ/Screenshot-2024-05-09-122414.png" alt=""></a>
+    <a class="navbar-brand" href="#"><img class="logo" src="https://i.postimg.cc/KjzyQ4GY/16820667791876436.jpg" alt=""></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
