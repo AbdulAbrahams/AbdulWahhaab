@@ -9,7 +9,6 @@
         <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
         <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
         <li class="nav-item"><a href="#resume" class="nav-link">Resume</a></li>
-        <li class="nav-item"><a href="#testimonials" class="nav-link">Testimonials</a></li>
         <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
         <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
       </ul>
@@ -37,9 +36,6 @@
           </li>
           <li class="nav-item">
             <a class="nav-link my-2" href="#resume">Resume</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link my-2" href="#testimonials">Testimonials</a>
           </li>
           <li class="nav-item">
             <a class="nav-link my-2" href="#projects">Projects</a>
