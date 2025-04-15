@@ -25,10 +25,6 @@
         <section>
           <Resume/>
         </section>
-        <div class="space" id="testimonials"></div>
-        <section>
-          <Testimonials/>
-        </section>
         <div class="space" id="projects"></div>
         <section>
           <Projects/>
