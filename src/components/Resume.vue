@@ -35,14 +35,14 @@
                       {
                           name: 'Global Kinetic Software Engineers',
                           period: ' July 2023 – Present',
-                          description: "Started my journey in quality assurance as and SDET at Global Kinetic.",
+                          description: "As a Junior SDET at Global Kinetic, I am responsible for conducting both manual and automated testing, utilizing tools such as Selenium and Appium for front-end testing. Additionally, I performed API testing on the backend using Postman and Swagger UI. My role also included managing and maintaining CI/CD pipelines in Jenkins and Azure DevOps, ensuring streamlined and efficient development workflows.",
                           image: "https://i.postimg.cc/nzKkbWH7/images-1.jpg",
                           link: "https://globalkinetic.com/"
                       },
                       {
                           name: 'Life Choices Studio',
                           period: ' April 2023 – June 2023',
-                          description: "Furthered my learning journey onto UX/UI, Wordpress and Figma",
+                          description: "As a Web Development Intern at Life Choices Studio, I gained hands-on experience in WordPress development, UI/UX design, and Figma prototyping. I focused on building user-friendly websites, enhancing functionality, and creating intuitive interfaces, strengthening both my technical and creative skills.",
                           image: "https://i.postimg.cc/qRHLFrd4/images.jpg",
                           link: "https://lcstudio.co.za/"
                       },    
