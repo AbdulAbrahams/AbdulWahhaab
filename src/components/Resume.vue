@@ -32,7 +32,7 @@
         data(){
               return{
                   resume:[
-                        {                          {
+                      {                          {
                           name: 'Redpanda Software',
                           period: ' June 2025 – Present',
                           description: "As an intermediate QA Analyst at Redpanda, I was responsible for: Performing manual testing using VNC Viewer, conducting backend API testing with Postman, logging bugs/defects using Jira, supported efficient development workflows through continuous integration and deployment practices and creating test cases and managing test runs using Tricentis.",
