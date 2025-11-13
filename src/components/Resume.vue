@@ -32,9 +32,16 @@
         data(){
               return{
                   resume:[
+                        {                          {
+                          name: 'Redpanda Software',
+                          period: ' June 2025 – Present',
+                          description: "As an intermediate QA Analyst at Redpanda, I was responsible for: Performing manual testing using VNC Viewer, conducting backend API testing with Postman, logging bugs/defects using Jira, supported efficient development workflows through continuous integration and deployment practices and creating test cases and managing test runs using Tricentis.",
+                          image: "https://i.postimg.cc/9QhzdTLy/redpanda-icon.png",
+                          link: "https://www.redpandasoftware.co.za/"
+                      },
                       {
                           name: 'Global Kinetic Software Engineers',
-                          period: ' July 2023 – Present',
+                          period: ' July 2023 – May 2025',
                           description: "As a Junior SDET at Global Kinetic, I am responsible for conducting both manual and automated testing, utilizing tools such as Selenium and Appium for front-end testing. Additionally, I performed API testing on the backend using Postman and Swagger UI. My role also included managing and maintaining CI/CD pipelines in Jenkins and Azure DevOps, ensuring streamlined and efficient development workflows.",
                           image: "https://i.postimg.cc/nzKkbWH7/images-1.jpg",
                           link: "https://globalkinetic.com/"
