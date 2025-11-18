@@ -6,7 +6,7 @@
           <div class="row introduction">
             <div class="col-md-12 intro" data-aos="fade-left" data-aos-duration="2000">
               <h1 class="introH1">Abdul Wahhaab Abrahams</h1>
-              <h3 class="my-1">Web Developer</h3>
+              <h3 class="my-1 introH3">QA Analyst/Automation Engineer</h3>
               <a href="#about" class="learn btn btn-lg btn-light my-4 px-5" style="border-radius: 0px;">Learn About Me</a>
               <div class="footer-bar mx-4">
                 <a href="https://www.youtube.com/@AbnormalAbdul12"><i class="fa fa-youtube-play"></i></a>
@@ -104,7 +104,11 @@ section{
 .introH1{
   font-size: clamp(3.6rem, 5vw, 6.5rem);
 }
-
+    
+.introH3{
+  color: blue;
+}
+    
 .intro {
   color: white;
   text-align: left;
