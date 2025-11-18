@@ -4,7 +4,7 @@
       <div class="container">
         <section class="introSec">
           <div class="row introduction">
-            <div class="col-md-12 intro" data-aos="fade-left" data-aos-duration="2000">
+            <div class="col-md-6 intro" data-aos="fade-left" data-aos-duration="2000">
               <h1 class="introH1">Abdul Wahhaab Abrahams</h1>
               <h3 class="my-1">QA Analyst/Automation Engineer</h3>
               <a href="#about" class="learn btn btn-lg btn-light my-4 px-5" style="border-radius: 0px;">Learn About Me</a>
@@ -13,6 +13,8 @@
                 <a href="https://www.linkedin.com/in/abdul-wahhaab-abrahams-506142222/"><i class="fa fa-linkedin"></i></a> 
                 <a href="https://github.com/AbdulAbrahams"><i class="fa fa-github mx-4"></i></a>
               </div>
+            <div class="col-md-6 meImg" data-aos="fade-right" data-aos-duration="2000">
+              </div>   
             </div>
           </div>
         </section>
