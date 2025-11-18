@@ -157,7 +157,7 @@
 .skillsCol{
     height: 15vh;
     mix-blend-mode: luminosity;
-    background-color: rgb(28, 28, 28);
+    background-color: rgba(28, 28, 28, 0.65);
 }
 .skillsCol img{
     margin-top: 5%;
@@ -166,7 +166,7 @@
 }
 .skillsCol:hover{
   mix-blend-mode: unset;
-    background-color: rgba(28, 28, 28, 0.65);
+  background-color: rgba(28, 28, 28, 0.4);
   transition: 0.1s;
 }
 
