@@ -28,7 +28,6 @@
     
             <div class="deats justify-content-around">
               <a href="mailto:abdulabrahams2002@gmail.com" class="my-3 mail" mail><i class="fa fa-envelope"></i> abdulabrahams2002@gmail.com </a>
-              <text class="my-3"><i class="fa fa-phone"></i> +27 84 961 3100</text>
             </div>
             
         </div>
