@@ -14,8 +14,10 @@
                 <a href="https://github.com/AbdulAbrahams"><i class="fa fa-github mx-4"></i></a>
               </div> 
             </div>
-               <div class="col-md-8 ImgCol" data-aos="fade-right" data-aos-duration="2000">
+               <div class="col-md-8" data-aos="fade-right" data-aos-duration="2000">
+                  <div class="ImgCol">
                 <img class="meImg" src="https://i.postimg.cc/YqJKrPkn/Me-Image.png" alt="">
+                 </div> 
               </div>  
           </div>
         </section>
