@@ -166,8 +166,8 @@
 }
 .skillsCol:hover{
   mix-blend-mode: unset;
-  background-color: rgba(28, 28, 28, 0.4);
-  transition: 0.1s;
+  background-color: rgba(28, 28, 28, 0.35);
+  transition: 0.08s;
 }
 
 .personLink{
