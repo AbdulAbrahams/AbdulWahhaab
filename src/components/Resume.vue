@@ -106,7 +106,10 @@
                     },
                     {
                         image: 'https://i.postimg.cc/Hsjt1MBt/sel-3.png'
-                    }
+                    },
+                    {
+                        image: 'https://i.postimg.cc/BQbjYKkw/playwright-png.png'
+                    },      
                   ]
               }
           }
