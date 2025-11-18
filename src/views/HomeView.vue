@@ -4,7 +4,7 @@
       <div class="container">
         <section class="introSec">
           <div class="row introduction">
-            <div class="col-md-10 intro" data-aos="fade-left" data-aos-duration="2000">
+            <div class="col-md-12 intro" data-aos="fade-left" data-aos-duration="2000">
               <h1 class="introH1">Abdul Wahhaab Abrahams</h1>
               <h3 class="my-1">QA Analyst/Automation Engineer</h3>
               <a href="#about" class="learn btn btn-lg btn-light my-4 px-5" style="border-radius: 0px;">Learn About Me</a>
