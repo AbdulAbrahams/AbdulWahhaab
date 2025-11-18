@@ -157,7 +157,7 @@
 .skillsCol{
     height: 15vh;
     mix-blend-mode: luminosity;
-    background-color: rgb(169, 169, 169);
+    background-color: rgb(54, 69, 79);
 }
 .skillsCol img{
     margin-top: 5%;
@@ -166,7 +166,7 @@
 }
 .skillsCol:hover{
   mix-blend-mode: unset;
-  background-color: rgb(54, 69, 79);
+  background-color: black;
 }
 
 .personLink{
