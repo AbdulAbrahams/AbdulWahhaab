@@ -157,6 +157,7 @@
 .skillsCol{
     height: 15vh;
     mix-blend-mode: luminosity;
+    background-color: rgb(169, 169, 169);
 }
 .skillsCol img{
     margin-top: 5%;
