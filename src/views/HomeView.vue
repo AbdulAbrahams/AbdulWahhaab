@@ -116,10 +116,10 @@ section{
   align-items: center;
 }
 
-.meImg {
+.Theimage {
   max-height: 715px;
   float: right;
-  mix-blend-mode: luminosity !important;
+  mix-blend-mode: luminosity;
 }
 @media screen and (width < 1000px) {
   .body{
