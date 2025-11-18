@@ -12,11 +12,11 @@
                 <a href="https://www.instagram.com/abdul_abrahams_/"><i class="fa fa-instagram mx-4"></i></a> 
                 <a href="https://www.linkedin.com/in/abdul-wahhaab-abrahams-506142222/"><i class="fa fa-linkedin"></i></a> 
                 <a href="https://github.com/AbdulAbrahams"><i class="fa fa-github mx-4"></i></a>
-              </div>
-            <div class="col-md-6 meImg" data-aos="fade-right" data-aos-duration="2000">
-                <img src="https://i.postimg.cc/YqJKrPkn/Me-Image.png" alt="">
-              </div>   
+              </div> 
             </div>
+               <div class="col-md-6 meImg" data-aos="fade-right" data-aos-duration="2000">
+                <img src="https://i.postimg.cc/YqJKrPkn/Me-Image.png" alt="">
+              </div>  
           </div>
         </section>
         <div class="space" id="about"></div>
