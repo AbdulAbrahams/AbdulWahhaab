@@ -109,7 +109,13 @@
                     },
                     {
                         image: 'https://i.postimg.cc/BQbjYKkw/playwright-png.png'
-                    },      
+                    }, 
+                    {
+                        image: 'https://i.postimg.cc/DwFwV4MT/Azure.png'
+                    },                    
+                    {
+                        image: 'https://i.postimg.cc/rscPycX7/Postman-png.png'
+                    }
                   ]
               }
           }
