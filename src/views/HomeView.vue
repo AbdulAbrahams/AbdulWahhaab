@@ -105,10 +105,6 @@ section{
   font-size: clamp(3.6rem, 5vw, 6.5rem);
 }
     
-.introH3{
-  color: blue;
-}
-    
 .intro {
   color: white;
   text-align: left;
