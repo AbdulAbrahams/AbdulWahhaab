@@ -166,6 +166,7 @@
 }
 .skillsCol:hover{
   mix-blend-mode: unset;
+  background-color: rgb(54, 69, 79);
 }
 
 .personLink{
