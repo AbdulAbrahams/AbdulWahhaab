@@ -155,7 +155,7 @@
 }
 
 .skillsCol{
-    height: 20vh;
+    height: 15vh;
     mix-blend-mode: luminosity;
 }
 .skillsCol img{
