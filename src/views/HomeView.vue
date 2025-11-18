@@ -14,6 +14,7 @@
                 <a href="https://github.com/AbdulAbrahams"><i class="fa fa-github mx-4"></i></a>
               </div>
             <div class="col-md-6 meImg" data-aos="fade-right" data-aos-duration="2000">
+                <img src="https://i.postimg.cc/YqJKrPkn/Me-Image.png" alt="">
               </div>   
             </div>
           </div>
