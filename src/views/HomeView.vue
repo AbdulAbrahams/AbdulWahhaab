@@ -117,7 +117,7 @@ section{
 }
 
 .meImg {
-  max-height: 705px;
+  max-height: 715px;
   float: right;
   mix-blend-mode: luminosity !important;
 }
