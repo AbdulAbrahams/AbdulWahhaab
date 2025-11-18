@@ -167,7 +167,7 @@
 .skillsCol:hover{
   mix-blend-mode: unset;
   background-color: black;
-  transition: 0.2s;
+  transition: 0.1s;
 }
 
 .personLink{
