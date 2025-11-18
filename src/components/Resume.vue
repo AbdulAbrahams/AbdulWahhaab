@@ -158,7 +158,7 @@
     height: 15vh;
     mix-blend-mode: luminosity;
     background-color: rgb(28, 28, 28);
-    border: 2px solid rgb(255, 255, 255);
+    border: 2px solid rgba(255, 255, 255, 0.7);
 }
 .skillsCol img{
     margin-top: 5%;
@@ -169,7 +169,7 @@
   mix-blend-mode: unset;
   background-color: black;
   transition: 0.1s;
-  border: 2px solid rgb(255, 255, 255);
+  border: 2px solid rgba(255, 255, 255, 0.45);
 }
 
 .personLink{
